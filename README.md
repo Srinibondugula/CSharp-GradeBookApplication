@@ -10,7 +10,7 @@ The C Sharp Grade Book Application is a designed to allow instructors to create 
 - "Load `Name of GradeBook`"
 - "Quit" : Closes the application
 
-### Commands when a gradebook is open
+### Commands when a gradebook is open1
 - "Add `Name of Student` `Type of Student` `Type of Enrollment`" : Adds a new student to the open gradebook
 - "Remove `Name of Student`" : Removes a student with the provided name from the gradebook. (if a student with that name exists in the gradebook)
 - "List" : Lists all students in the open gradebook
